@@ -1,0 +1,3 @@
+C:/Users/artoi/VSProjects/Basic programming in C++/CMake/Build2/CMakeFiles/project2.dir
+C:/Users/artoi/VSProjects/Basic programming in C++/CMake/Build2/CMakeFiles/ALL_BUILD.dir
+C:/Users/artoi/VSProjects/Basic programming in C++/CMake/Build2/CMakeFiles/ZERO_CHECK.dir

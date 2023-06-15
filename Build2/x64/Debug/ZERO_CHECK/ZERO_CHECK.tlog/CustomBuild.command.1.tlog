@@ -1,0 +1,10 @@
+^C:\USERS\ARTOI\VSPROJECTS\BASIC PROGRAMMING IN C++\CMAKE\BUILD2\CMAKEFILES\503C79D15A7D34CDD68D0925A7AAE6B0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/artoi/VSProjects/Basic programming in C++/CMake/Task_2_The_project_is_more_complicated" "-BC:/Users/artoi/VSProjects/Basic programming in C++/CMake/Build2" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/artoi/VSProjects/Basic programming in C++/CMake/Build2/project2.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

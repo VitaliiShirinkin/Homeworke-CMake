@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\equilTriangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\Figure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\isosTriangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\parallelogram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\Quadrangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\rectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\rhomb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\rightTriangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\Task_3_Class_hierarchy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\equilTriangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\Figure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\isosTriangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\parallelogram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\Quadrangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\rectangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\rhomb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\rightTriangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\square.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\Triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\artoi\VSProjects\Basic programming in C++\CMake\Task_2_The_project_is_more_complicated\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5D8E18FD-5861-33A8-B488-61D189F39A1F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{082A4049-B98A-3FC0-85CA-904259745BD8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
